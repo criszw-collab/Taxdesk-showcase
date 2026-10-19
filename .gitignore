@@ -1,0 +1,8 @@
+# Showcase allowlist: application code and runtime data do not belong here.
+*
+!.gitignore
+!README.md
+!docs/
+!docs/*.md
+!assets/
+!assets/*.png
